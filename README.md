@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello there :wave:, I'm François (`FRANCE-wah` for non french speaker)
 
+I'm currently working @ [pleo.io](https://www.pleo.io/), helping companies get aboard the future of work :rocket:  and the future of company spending :credit_card:!
 <!--
 **flehoux/flehoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
